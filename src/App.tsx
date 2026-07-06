@@ -1918,7 +1918,7 @@ function CompanyProfilePage({ mode, activeDocument, setActiveDocument, hsnlPage,
           <div className="section-head text-center" style={{ marginBottom: '40px' }}>
             <span style={{ color: 'var(--gold)', fontWeight: '800', textTransform: 'uppercase', letterSpacing: '1.5px', fontSize: '13px', display: 'block', marginBottom: '12px' }}>Interactive Pricing Catalog</span>
             <h2 style={{ fontSize: 'clamp(24px, 3.5vw, 36px)', fontWeight: '900', color: 'var(--ink)' }}>Bảng Tra Cứu Dịch Vụ &amp; Báo Giá Nhanh</h2>
-            <p style={{ color: 'var(--muted)', fontSize: '15.5px', marginTop: '12px', maxWidth: '680px', marginLeft: 'auto', marginRight: 'auto' }}>Tra cứu báo giá các hạng mục marketing, quay dựng video và quảng cáo chi tiết cho Nhà hàng, Khách sạn, Cafe và Bar Club.</p>
+            <p style={{ color: 'var(--muted)', fontSize: '15.5px', marginTop: '12px', maxWidth: '820px', marginLeft: 'auto', marginRight: 'auto' }}>Tra cứu báo giá các hạng mục marketing, quay dựng video và quảng cáo chi tiết cho Nhà hàng, Khách sạn, Cafe và Bar Club.</p>
           </div>
           
           <div className="pricing-tabs-container">
