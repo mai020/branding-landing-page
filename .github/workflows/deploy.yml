@@ -30,6 +30,8 @@ jobs:
           cache: npm
       - name: Install dependencies
         run: npm install
+      - name: Remove large PDFs for Pages deployment
+        run: rm -rf public/pdf
       - name: Build
         run: npm run build
       - name: Setup Pages
