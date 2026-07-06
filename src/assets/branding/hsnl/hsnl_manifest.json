@@ -1,0 +1,432 @@
+{
+  "pages": 76,
+  "images": [
+    {
+      "file": "hsnl/hsnl_page_01.jpg",
+      "page": 1,
+      "type": "page_render",
+      "w": 1053,
+      "h": 745
+    },
+    {
+      "file": "hsnl/hsnl_img_p01_01_692x795.png",
+      "page": 1,
+      "type": "embedded",
+      "w": 692,
+      "h": 795
+    },
+    {
+      "file": "hsnl/hsnl_img_p01_03_483x706.jpeg",
+      "page": 1,
+      "type": "embedded",
+      "w": 483,
+      "h": 706
+    },
+    {
+      "file": "hsnl/hsnl_img_p01_04_435x284.jpeg",
+      "page": 1,
+      "type": "embedded",
+      "w": 435,
+      "h": 284
+    },
+    {
+      "file": "hsnl/hsnl_img_p01_05_701x810.jpeg",
+      "page": 1,
+      "type": "embedded",
+      "w": 701,
+      "h": 810
+    },
+    {
+      "file": "hsnl/hsnl_img_p01_06_490x571.jpeg",
+      "page": 1,
+      "type": "embedded",
+      "w": 490,
+      "h": 571
+    },
+    {
+      "file": "hsnl/hsnl_img_p01_07_457x310.jpeg",
+      "page": 1,
+      "type": "embedded",
+      "w": 457,
+      "h": 310
+    },
+    {
+      "file": "hsnl/hsnl_img_p01_12_856x988.jpeg",
+      "page": 1,
+      "type": "embedded",
+      "w": 856,
+      "h": 988
+    },
+    {
+      "file": "hsnl/hsnl_img_p01_13_808x732.png",
+      "page": 1,
+      "type": "embedded",
+      "w": 808,
+      "h": 732
+    },
+    {
+      "file": "hsnl/hsnl_img_p01_14_442x511.jpeg",
+      "page": 1,
+      "type": "embedded",
+      "w": 442,
+      "h": 511
+    },
+    {
+      "file": "hsnl/hsnl_page_02.jpg",
+      "page": 2,
+      "type": "page_render",
+      "w": 1053,
+      "h": 745
+    },
+    {
+      "file": "hsnl/hsnl_img_p02_03_879x952.jpeg",
+      "page": 2,
+      "type": "embedded",
+      "w": 879,
+      "h": 952
+    },
+    {
+      "file": "hsnl/hsnl_img_p02_05_823x988.jpeg",
+      "page": 2,
+      "type": "embedded",
+      "w": 823,
+      "h": 988
+    },
+    {
+      "file": "hsnl/hsnl_page_03.jpg",
+      "page": 3,
+      "type": "page_render",
+      "w": 1053,
+      "h": 745
+    },
+    {
+      "file": "hsnl/hsnl_img_p03_01_734x1098.jpeg",
+      "page": 3,
+      "type": "embedded",
+      "w": 734,
+      "h": 1098
+    },
+    {
+      "file": "hsnl/hsnl_img_p03_05_961x847.jpeg",
+      "page": 3,
+      "type": "embedded",
+      "w": 961,
+      "h": 847
+    },
+    {
+      "file": "hsnl/hsnl_page_04.jpg",
+      "page": 4,
+      "type": "page_render",
+      "w": 1053,
+      "h": 745
+    },
+    {
+      "file": "hsnl/hsnl_img_p04_01_2048x1365.jpeg",
+      "page": 4,
+      "type": "embedded",
+      "w": 2048,
+      "h": 1365
+    },
+    {
+      "file": "hsnl/hsnl_img_p04_02_1757x294.jpeg",
+      "page": 4,
+      "type": "embedded",
+      "w": 1757,
+      "h": 294
+    },
+    {
+      "file": "hsnl/hsnl_img_p04_08_896x882.jpeg",
+      "page": 4,
+      "type": "embedded",
+      "w": 896,
+      "h": 882
+    },
+    {
+      "file": "hsnl/hsnl_img_p04_09_747x882.jpeg",
+      "page": 4,
+      "type": "embedded",
+      "w": 747,
+      "h": 882
+    },
+    {
+      "file": "hsnl/hsnl_page_05.jpg",
+      "page": 5,
+      "type": "page_render",
+      "w": 1053,
+      "h": 745
+    },
+    {
+      "file": "hsnl/hsnl_img_p05_01_1758x294.jpeg",
+      "page": 5,
+      "type": "embedded",
+      "w": 1758,
+      "h": 294
+    },
+    {
+      "file": "hsnl/hsnl_img_p05_03_2048x1365.jpeg",
+      "page": 5,
+      "type": "embedded",
+      "w": 2048,
+      "h": 1365
+    },
+    {
+      "file": "hsnl/hsnl_img_p05_07_1536x2048.jpeg",
+      "page": 5,
+      "type": "embedded",
+      "w": 1536,
+      "h": 2048
+    },
+    {
+      "file": "hsnl/hsnl_img_p05_10_1246x660.jpeg",
+      "page": 5,
+      "type": "embedded",
+      "w": 1246,
+      "h": 660
+    },
+    {
+      "file": "hsnl/hsnl_img_p05_14_1582x380.jpeg",
+      "page": 5,
+      "type": "embedded",
+      "w": 1582,
+      "h": 380
+    },
+    {
+      "file": "hsnl/hsnl_page_06.jpg",
+      "page": 6,
+      "type": "page_render",
+      "w": 1053,
+      "h": 745
+    },
+    {
+      "file": "hsnl/hsnl_img_p06_01_2048x1365.jpeg",
+      "page": 6,
+      "type": "embedded",
+      "w": 2048,
+      "h": 1365
+    },
+    {
+      "file": "hsnl/hsnl_page_07.jpg",
+      "page": 7,
+      "type": "page_render",
+      "w": 1053,
+      "h": 745
+    },
+    {
+      "file": "hsnl/hsnl_img_p07_01_2048x1365.jpeg",
+      "page": 7,
+      "type": "embedded",
+      "w": 2048,
+      "h": 1365
+    },
+    {
+      "file": "hsnl/hsnl_page_08.jpg",
+      "page": 8,
+      "type": "page_render",
+      "w": 1053,
+      "h": 745
+    },
+    {
+      "file": "hsnl/hsnl_img_p08_01_1755x1237.jpeg",
+      "page": 8,
+      "type": "embedded",
+      "w": 1755,
+      "h": 1237
+    },
+    {
+      "file": "hsnl/hsnl_page_09.jpg",
+      "page": 9,
+      "type": "page_render",
+      "w": 1053,
+      "h": 745
+    },
+    {
+      "file": "hsnl/hsnl_img_p09_01_1755x1237.jpeg",
+      "page": 9,
+      "type": "embedded",
+      "w": 1755,
+      "h": 1237
+    },
+    {
+      "file": "hsnl/hsnl_img_p09_02_1755x1241.jpeg",
+      "page": 9,
+      "type": "embedded",
+      "w": 1755,
+      "h": 1241
+    },
+    {
+      "file": "hsnl/hsnl_img_p09_29_683x683.jpeg",
+      "page": 9,
+      "type": "embedded",
+      "w": 683,
+      "h": 683
+    },
+    {
+      "file": "hsnl/hsnl_img_p09_40_683x683.jpeg",
+      "page": 9,
+      "type": "embedded",
+      "w": 683,
+      "h": 683
+    },
+    {
+      "file": "hsnl/hsnl_page_10.jpg",
+      "page": 10,
+      "type": "page_render",
+      "w": 1053,
+      "h": 745
+    },
+    {
+      "file": "hsnl/hsnl_page_11.jpg",
+      "page": 11,
+      "type": "page_render",
+      "w": 1053,
+      "h": 745
+    },
+    {
+      "file": "hsnl/hsnl_img_p11_01_1753x1240.jpeg",
+      "page": 11,
+      "type": "embedded",
+      "w": 1753,
+      "h": 1240
+    },
+    {
+      "file": "hsnl/hsnl_page_12.jpg",
+      "page": 12,
+      "type": "page_render",
+      "w": 1053,
+      "h": 745
+    },
+    {
+      "file": "hsnl/hsnl_img_p12_01_443x281.png",
+      "page": 12,
+      "type": "embedded",
+      "w": 443,
+      "h": 281
+    },
+    {
+      "file": "hsnl/hsnl_img_p12_25_886x843.png",
+      "page": 12,
+      "type": "embedded",
+      "w": 886,
+      "h": 843
+    },
+    {
+      "file": "hsnl/hsnl_img_p12_36_885x843.png",
+      "page": 12,
+      "type": "embedded",
+      "w": 885,
+      "h": 843
+    },
+    {
+      "file": "hsnl/hsnl_img_p12_47_886x422.png",
+      "page": 12,
+      "type": "embedded",
+      "w": 886,
+      "h": 422
+    },
+    {
+      "file": "hsnl/hsnl_img_p12_58_444x983.png",
+      "page": 12,
+      "type": "embedded",
+      "w": 444,
+      "h": 983
+    },
+    {
+      "file": "hsnl/hsnl_img_p12_79_848x436.png",
+      "page": 12,
+      "type": "embedded",
+      "w": 848,
+      "h": 436
+    },
+    {
+      "file": "hsnl/hsnl_img_p12_91_738x422.png",
+      "page": 12,
+      "type": "embedded",
+      "w": 738,
+      "h": 422
+    },
+    {
+      "file": "hsnl/hsnl_img_p12_113_886x840.png",
+      "page": 12,
+      "type": "embedded",
+      "w": 886,
+      "h": 840
+    },
+    {
+      "file": "hsnl/hsnl_img_p12_125_443x422.png",
+      "page": 12,
+      "type": "embedded",
+      "w": 443,
+      "h": 422
+    },
+    {
+      "file": "hsnl/hsnl_img_p12_150_435x489.png",
+      "page": 12,
+      "type": "embedded",
+      "w": 435,
+      "h": 489
+    },
+    {
+      "file": "hsnl/hsnl_img_p12_213_427x268.png",
+      "page": 12,
+      "type": "embedded",
+      "w": 427,
+      "h": 268
+    },
+    {
+      "file": "hsnl/hsnl_img_p12_392_571x643.png",
+      "page": 12,
+      "type": "embedded",
+      "w": 571,
+      "h": 643
+    },
+    {
+      "file": "hsnl/hsnl_img_p12_446_444x561.png",
+      "page": 12,
+      "type": "embedded",
+      "w": 444,
+      "h": 561
+    },
+    {
+      "file": "hsnl/hsnl_img_p12_481_515x431.png",
+      "page": 12,
+      "type": "embedded",
+      "w": 515,
+      "h": 431
+    },
+    {
+      "file": "hsnl/hsnl_img_p12_557_443x282.png",
+      "page": 12,
+      "type": "embedded",
+      "w": 443,
+      "h": 282
+    },
+    {
+      "file": "hsnl/hsnl_page_13.jpg",
+      "page": 13,
+      "type": "page_render",
+      "w": 1053,
+      "h": 745
+    },
+    {
+      "file": "hsnl/hsnl_page_14.jpg",
+      "page": 14,
+      "type": "page_render",
+      "w": 1053,
+      "h": 745
+    },
+    {
+      "file": "hsnl/hsnl_page_15.jpg",
+      "page": 15,
+      "type": "page_render",
+      "w": 1053,
+      "h": 745
+    },
+    {
+      "file": "hsnl/hsnl_page_16.jpg",
+      "page": 16,
+      "type": "page_render",
+      "w": 1053,
+      "h": 745
+    }
+  ]
+}

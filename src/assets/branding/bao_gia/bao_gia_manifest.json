@@ -1,0 +1,432 @@
+{
+  "pages": 28,
+  "images": [
+    {
+      "file": "bao_gia/bao_gia_page_01.jpg",
+      "page": 1,
+      "type": "page_render",
+      "w": 3000,
+      "h": 1688
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p01_01_3556x2000.jpeg",
+      "page": 1,
+      "type": "embedded",
+      "w": 3556,
+      "h": 2000
+    },
+    {
+      "file": "bao_gia/bao_gia_page_02.jpg",
+      "page": 2,
+      "type": "page_render",
+      "w": 3000,
+      "h": 1688
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p02_01_3556x2000.jpeg",
+      "page": 2,
+      "type": "embedded",
+      "w": 3556,
+      "h": 2000
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p02_02_7616x2735.png",
+      "page": 2,
+      "type": "embedded",
+      "w": 7616,
+      "h": 2735
+    },
+    {
+      "file": "bao_gia/bao_gia_page_03.jpg",
+      "page": 3,
+      "type": "page_render",
+      "w": 3000,
+      "h": 1688
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p03_01_3556x2000.jpeg",
+      "page": 3,
+      "type": "embedded",
+      "w": 3556,
+      "h": 2000
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p03_02_2000x2500.jpeg",
+      "page": 3,
+      "type": "embedded",
+      "w": 2000,
+      "h": 2500
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p03_03_2000x2000.jpeg",
+      "page": 3,
+      "type": "embedded",
+      "w": 2000,
+      "h": 2000
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p03_04_2000x2000.jpeg",
+      "page": 3,
+      "type": "embedded",
+      "w": 2000,
+      "h": 2000
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p03_05_2000x2000.jpeg",
+      "page": 3,
+      "type": "embedded",
+      "w": 2000,
+      "h": 2000
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p03_06_2000x1333.jpeg",
+      "page": 3,
+      "type": "embedded",
+      "w": 2000,
+      "h": 1333
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p03_07_2000x1333.jpeg",
+      "page": 3,
+      "type": "embedded",
+      "w": 2000,
+      "h": 1333
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p03_08_2000x1333.jpeg",
+      "page": 3,
+      "type": "embedded",
+      "w": 2000,
+      "h": 1333
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p03_09_8968x3436.png",
+      "page": 3,
+      "type": "embedded",
+      "w": 8968,
+      "h": 3436
+    },
+    {
+      "file": "bao_gia/bao_gia_page_04.jpg",
+      "page": 4,
+      "type": "page_render",
+      "w": 3000,
+      "h": 1688
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p04_01_3556x2000.jpeg",
+      "page": 4,
+      "type": "embedded",
+      "w": 3556,
+      "h": 2000
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p04_02_2500x3000.png",
+      "page": 4,
+      "type": "embedded",
+      "w": 2500,
+      "h": 3000
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p04_03_2500x2500.jpeg",
+      "page": 4,
+      "type": "embedded",
+      "w": 2500,
+      "h": 2500
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p04_04_1280x1920.jpeg",
+      "page": 4,
+      "type": "embedded",
+      "w": 1280,
+      "h": 1920
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p04_05_8967x3554.png",
+      "page": 4,
+      "type": "embedded",
+      "w": 8967,
+      "h": 3554
+    },
+    {
+      "file": "bao_gia/bao_gia_page_05.jpg",
+      "page": 5,
+      "type": "page_render",
+      "w": 3000,
+      "h": 1688
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p05_01_3556x2000.jpeg",
+      "page": 5,
+      "type": "embedded",
+      "w": 3556,
+      "h": 2000
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p05_02_3750x2500.png",
+      "page": 5,
+      "type": "embedded",
+      "w": 3750,
+      "h": 2500
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p05_03_1387x1386.jpeg",
+      "page": 5,
+      "type": "embedded",
+      "w": 1387,
+      "h": 1386
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p05_04_1387x1386.jpeg",
+      "page": 5,
+      "type": "embedded",
+      "w": 1387,
+      "h": 1386
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p05_05_1387x1386.jpeg",
+      "page": 5,
+      "type": "embedded",
+      "w": 1387,
+      "h": 1386
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p05_06_2002x3000.png",
+      "page": 5,
+      "type": "embedded",
+      "w": 2002,
+      "h": 3000
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p05_07_1387x1387.jpeg",
+      "page": 5,
+      "type": "embedded",
+      "w": 1387,
+      "h": 1387
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p05_08_1387x1387.jpeg",
+      "page": 5,
+      "type": "embedded",
+      "w": 1387,
+      "h": 1387
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p05_09_1387x1387.jpeg",
+      "page": 5,
+      "type": "embedded",
+      "w": 1387,
+      "h": 1387
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p05_10_8612x4229.png",
+      "page": 5,
+      "type": "embedded",
+      "w": 8612,
+      "h": 4229
+    },
+    {
+      "file": "bao_gia/bao_gia_page_06.jpg",
+      "page": 6,
+      "type": "page_render",
+      "w": 3000,
+      "h": 1688
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p06_01_3556x2000.jpeg",
+      "page": 6,
+      "type": "embedded",
+      "w": 3556,
+      "h": 2000
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p06_02_2200x2500.jpeg",
+      "page": 6,
+      "type": "embedded",
+      "w": 2200,
+      "h": 2500
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p06_03_1280x1920.jpeg",
+      "page": 6,
+      "type": "embedded",
+      "w": 1280,
+      "h": 1920
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p06_04_2400x1600.jpeg",
+      "page": 6,
+      "type": "embedded",
+      "w": 2400,
+      "h": 1600
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p06_05_1920x1280.jpeg",
+      "page": 6,
+      "type": "embedded",
+      "w": 1920,
+      "h": 1280
+    },
+    {
+      "file": "bao_gia/bao_gia_page_07.jpg",
+      "page": 7,
+      "type": "page_render",
+      "w": 3000,
+      "h": 1688
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p07_01_3556x2000.jpeg",
+      "page": 7,
+      "type": "embedded",
+      "w": 3556,
+      "h": 2000
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p07_02_2500x3750.jpeg",
+      "page": 7,
+      "type": "embedded",
+      "w": 2500,
+      "h": 3750
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p07_03_1137x1137.jpeg",
+      "page": 7,
+      "type": "embedded",
+      "w": 1137,
+      "h": 1137
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p07_04_1137x1137.jpeg",
+      "page": 7,
+      "type": "embedded",
+      "w": 1137,
+      "h": 1137
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p07_05_1137x1137.jpeg",
+      "page": 7,
+      "type": "embedded",
+      "w": 1137,
+      "h": 1137
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p07_06_3750x2500.jpeg",
+      "page": 7,
+      "type": "embedded",
+      "w": 3750,
+      "h": 2500
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p07_07_3512x3506.png",
+      "page": 7,
+      "type": "embedded",
+      "w": 3512,
+      "h": 3506
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p07_08_5230x3505.png",
+      "page": 7,
+      "type": "embedded",
+      "w": 5230,
+      "h": 3505
+    },
+    {
+      "file": "bao_gia/bao_gia_page_08.jpg",
+      "page": 8,
+      "type": "page_render",
+      "w": 3000,
+      "h": 1688
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p08_01_3556x2000.jpeg",
+      "page": 8,
+      "type": "embedded",
+      "w": 3556,
+      "h": 2000
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p08_02_2500x3750.jpeg",
+      "page": 8,
+      "type": "embedded",
+      "w": 2500,
+      "h": 3750
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p08_03_2198x1465.jpeg",
+      "page": 8,
+      "type": "embedded",
+      "w": 2198,
+      "h": 1465
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p08_04_2500x3000.jpeg",
+      "page": 8,
+      "type": "embedded",
+      "w": 2500,
+      "h": 3000
+    },
+    {
+      "file": "bao_gia/bao_gia_img_p08_05_2500x2500.jpeg",
+      "page": 8,
+      "type": "embedded",
+      "w": 2500,
+      "h": 2500
+    },
+    {
+      "file": "bao_gia/bao_gia_page_09.jpg",
+      "page": 9,
+      "type": "page_render",
+      "w": 3000,
+      "h": 1688
+    },
+    {
+      "file": "bao_gia/bao_gia_page_10.jpg",
+      "page": 10,
+      "type": "page_render",
+      "w": 3000,
+      "h": 1688
+    },
+    {
+      "file": "bao_gia/bao_gia_page_11.jpg",
+      "page": 11,
+      "type": "page_render",
+      "w": 3000,
+      "h": 1688
+    },
+    {
+      "file": "bao_gia/bao_gia_page_12.jpg",
+      "page": 12,
+      "type": "page_render",
+      "w": 3000,
+      "h": 1688
+    },
+    {
+      "file": "bao_gia/bao_gia_page_13.jpg",
+      "page": 13,
+      "type": "page_render",
+      "w": 3000,
+      "h": 1688
+    },
+    {
+      "file": "bao_gia/bao_gia_page_14.jpg",
+      "page": 14,
+      "type": "page_render",
+      "w": 3000,
+      "h": 1688
+    },
+    {
+      "file": "bao_gia/bao_gia_page_15.jpg",
+      "page": 15,
+      "type": "page_render",
+      "w": 3000,
+      "h": 1688
+    },
+    {
+      "file": "bao_gia/bao_gia_page_16.jpg",
+      "page": 16,
+      "type": "page_render",
+      "w": 3000,
+      "h": 1688
+    }
+  ]
+}
