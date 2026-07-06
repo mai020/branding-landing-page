@@ -7229,3 +7229,15 @@ button,
   align-items: center;
   justify-content: center;
 }
+
+/* Force pricing description to stay on one line on desktop and wrap on mobile */
+.pricing-intro-desc {
+  white-space: nowrap !important;
+  max-width: fit-content !important;
+}
+@media (max-width: 991px) {
+  .pricing-intro-desc {
+    white-space: normal !important;
+    max-width: 90% !important;
+  }
+}
