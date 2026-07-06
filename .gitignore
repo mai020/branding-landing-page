@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Large PDF files exceeding GitHub 100MB limit
+public/pdf/BAO_GIA.pdf
+public/pdf/Bao_gia_TT_Su_kien_Nha_hang_Khach_san.pdf
+
