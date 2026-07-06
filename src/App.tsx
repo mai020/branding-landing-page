@@ -431,7 +431,7 @@ const renderIcon = (type: string) => {
     case 'strategy':
       return (
         <lottie-player
-          src="/lottie/strategy.json"
+          src="./lottie/strategy.json"
           background="transparent"
           speed="1"
           style={{ width: '48px', height: '48px', display: 'inline-block' }}
@@ -442,7 +442,7 @@ const renderIcon = (type: string) => {
     case 'identity':
       return (
         <lottie-player
-          src="/lottie/identity.json"
+          src="./lottie/identity.json"
           background="transparent"
           speed="1"
           style={{ width: '48px', height: '48px', display: 'inline-block' }}
@@ -453,7 +453,7 @@ const renderIcon = (type: string) => {
     case 'profile':
       return (
         <lottie-player
-          src="/lottie/profile.json"
+          src="./lottie/profile.json"
           background="transparent"
           speed="1"
           style={{ width: '48px', height: '48px', display: 'inline-block' }}
@@ -464,7 +464,7 @@ const renderIcon = (type: string) => {
     case 'marketing':
       return (
         <lottie-player
-          src="/lottie/marketing.json"
+          src="./lottie/marketing.json"
           background="transparent"
           speed="1"
           style={{ width: '48px', height: '48px', display: 'inline-block' }}
