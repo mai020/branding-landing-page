@@ -1389,7 +1389,7 @@ const pricingCategories = [
     items: [
       {
         stt: 'I',
-        name: 'Quản Trị Facebook I5',
+        name: 'Quản Trị Facebook / Fanpage',
         unit: 'Tháng',
         note: 'Gói quản trị nội dung content fanpage: Kế hoạch bài viết theo từng tháng (nếu chọn gói combo 3 tháng sẽ được lên kế hoạch marketing xuyên suốt 3 tháng). Bao gồm: Bài viết, Thiết kế, Poster tổng hợp theo concept tháng, Ảnh bài + avatar chủ đề theo tháng, Thiết kế in ấn, Đăng tải ảnh hằng ngày, Đăng video reel hằng ngày, Video quảng cáo chương trình khuyến mãi, Video intro giới thiệu & recap sự kiện (theo tư liệu khách cung cấp). Số lượng bài viết và thiết kế tùy thuộc vào từng gói quản trị khách hàng lựa chọn.'
       }
@@ -1480,7 +1480,7 @@ const pricingCategories = [
       {
         stt: '2',
         name: 'Quảng cáo Google: Tìm kiếm, Youtube, GDN, Shopping',
-        unit: 'Chien Dich',
+        unit: 'Chiến Dịch',
         note: 'Quang cao online tren Google: tim kiem, Youtube, GDN va Shopping theo muc tieu chien dich.'
       }
     ]
@@ -1729,6 +1729,32 @@ function CompanyProfilePage({ mode, activeDocument, setActiveDocument, hsnlPage,
                   </ul>
                 </div>
               </details>
+            </div>
+          </div>
+        </section>
+
+        {/* Dynamic Interactive Document Slides (rendered inline) */}
+        <section className="section doc-viewer-section" id="docs-viewer" style={{ background: 'var(--bg-color)', borderTop: '1px solid var(--line)' }}>
+          <div className="container">
+            <div className="section-head text-center" style={{ marginBottom: '32px' }}>
+              <span style={{ color: 'var(--gold)', fontWeight: '800', textTransform: 'uppercase', letterSpacing: '1.5px', fontSize: '13px', display: 'block', marginBottom: '12px' }}>DST Group Profile Viewer</span>
+              <h2 style={{ fontSize: 'clamp(26px, 3.8vw, 42px)', fontWeight: '900', color: 'var(--ink)' }}>Đọc hồ sơ trực tuyến</h2>
+              <p style={{ color: 'var(--muted)', fontSize: '15px', marginTop: '10px' }}>Nhấp chọn tab để xem trực tuyến Hồ sơ năng lực và các tài liệu báo giá chi tiết của chúng tôi.</p>
+            </div>
+            <div className="doc-tabs" style={{ display: 'flex', gap: '12px', justifyContent: 'center', flexWrap: 'wrap', marginBottom: '24px' }}>
+              <button type="button" className={activeDocument === 'hsnl' ? 'active' : ''} onClick={() => setActiveDocument('hsnl')}>Hồ sơ năng lực</button>
+              <button type="button" className={activeDocument === 'baogia' ? 'active' : ''} onClick={() => setActiveDocument('baogia')}>Báo giá</button>
+              <button type="button" className={activeDocument === 'sukien' ? 'active' : ''} onClick={() => setActiveDocument('sukien')}>Sự kiện</button>
+            </div>
+            {currentPageSrc && (
+              <div className="doc-page-frame" style={{ maxWidth: '980px', margin: '0 auto' }}>
+                <img src={currentPageSrc} alt={`Trang ${hsnlPage + 1}`} style={{ width: '100%', height: 'auto', display: 'block', borderRadius: '8px', boxShadow: '0 20px 50px rgba(0,0,0,0.14)' }} />
+              </div>
+            )}
+            <div className="doc-controls" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '16px', marginTop: '22px', paddingBottom: '20px' }}>
+              <button type="button" onClick={() => setHsnlPage(Math.max(0, hsnlPage - 1))} disabled={hsnlPage <= 0}>Trang trước</button>
+              <span>{hsnlPage + 1} / {currentDocPages.length}</span>
+              <button type="button" onClick={() => setHsnlPage(Math.min(currentDocPages.length - 1, hsnlPage + 1))} disabled={hsnlPage >= currentDocPages.length - 1}>Trang sau</button>
             </div>
           </div>
         </section>
