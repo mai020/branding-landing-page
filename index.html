@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Be+Vietnam+Pro:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DST Marketing - Dịch Vụ Định Vị &amp; Thiết Kế Thương Hiệu Cao Cấp</title>
+    <meta name="description" content="DST giúp doanh nghiệp đột phá doanh thu và khẳng định vị thế dẫn đầu bằng các giải pháp định vị, thiết kế logo, bộ nhận diện thương hiệu và bao bì chuyên nghiệp, độc bản." />
+    <meta name="keywords" content="branding, thiết kế logo, nhận diện thương hiệu, định vị thương hiệu, thiết kế bao bì, dst agency, dst marketing, dst media" />
+    <meta name="author" content="DST Agency" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <script>
+      // Automatically play all lottie-player elements when they are added to DOM
+      const observer = new MutationObserver((mutations) => {
+        mutations.forEach((mutation) => {
+          mutation.addedNodes.forEach((node) => {
+            if (node.nodeName === 'LOTTIE-PLAYER') {
+              node.addEventListener('ready', () => { node.play(); });
+              if (node.play) { try { node.play(); } catch(e) {} }
+            }
+            if (node.querySelectorAll) {
+              node.querySelectorAll('lottie-player').forEach(player => {
+                player.addEventListener('ready', () => { player.play(); });
+                if (player.play) { try { player.play(); } catch(e) {} }
+              });
+            }
+          });
+        });
+      });
+      observer.observe(document.body, { childList: true, subtree: true });
+    </script>
+  </body>
+</html>
+
+
