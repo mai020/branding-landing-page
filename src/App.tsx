@@ -1970,8 +1970,8 @@ function ContactSection() {
       <div className="container contact-grid">
         <div>
           <p className="eyebrow">Liên hệ</p>
-          <h2>Cần xây dựng branding cho nhóm ngành nào?</h2>
-          <p>DST Group tư vấn định hướng nhận diện, hồ sơ năng lực, ấn phẩm bán hàng và hình ảnh truyền thông phù hợp từng lĩnh vực.</p>
+          <h2>Bạn cần nâng tầm hình ảnh thương hiệu? Hãy liên hệ ngay với chúng tôi!</h2>
+          <p>DST Group đồng hành cùng doanh nghiệp định vị thương hiệu vững chắc, kiến tạo hệ thống nhận diện chuyên nghiệp, thiết kế hồ sơ năng lực độc bản và tối ưu hóa bộ ấn phẩm bán hàng để gia tăng vị thế cạnh tranh vượt trội.</p>
         </div>
         <form className="lead-form" onSubmit={(e) => { e.preventDefault(); alert('Đăng ký thành công! DST Group sẽ liên hệ tư vấn sớm nhất.'); }}>
           <input placeholder="Tên doanh nghiệp / người liên hệ" required />
